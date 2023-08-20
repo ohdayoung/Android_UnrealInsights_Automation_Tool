@@ -1,0 +1,1 @@
+adb shell monkey -p %1 1

@@ -1,0 +1,1 @@
+-tracehost=127.0.0.1 -statnamedevents -trace=log,bookmark,frame,stats,counter,cpu,task,gpu,rhicommands,rendercommands,file,loadtime,savetime,net,module,memalloc,memtag,animation,niagara -NetTrace=2  

@@ -1,0 +1,17 @@
+D:\Project\ADBTool\bin\Debug\net6.0-windows\ADBTool.exe
+D:\Project\ADBTool\bin\Debug\net6.0-windows\ADBTool.deps.json
+D:\Project\ADBTool\bin\Debug\net6.0-windows\ADBTool.runtimeconfig.json
+D:\Project\ADBTool\bin\Debug\net6.0-windows\ADBTool.dll
+D:\Project\ADBTool\bin\Debug\net6.0-windows\ADBTool.pdb
+D:\Project\ADBTool\obj\Debug\net6.0-windows\ADBTool.csproj.AssemblyReference.cache
+D:\Project\ADBTool\obj\Debug\net6.0-windows\ADBTool.csproj.GenerateResource.cache
+D:\Project\ADBTool\obj\Debug\net6.0-windows\ADBTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ADBTool\obj\Debug\net6.0-windows\ADBTool.AssemblyInfoInputs.cache
+D:\Project\ADBTool\obj\Debug\net6.0-windows\ADBTool.AssemblyInfo.cs
+D:\Project\ADBTool\obj\Debug\net6.0-windows\ADBTool.csproj.CoreCompileInputs.cache
+D:\Project\ADBTool\obj\Debug\net6.0-windows\ADBTool.dll
+D:\Project\ADBTool\obj\Debug\net6.0-windows\refint\ADBTool.dll
+D:\Project\ADBTool\obj\Debug\net6.0-windows\ADBTool.pdb
+D:\Project\ADBTool\obj\Debug\net6.0-windows\ADBTool.genruntimeconfig.cache
+D:\Project\ADBTool\obj\Debug\net6.0-windows\ref\ADBTool.dll
+D:\Project\ADBTool\obj\Debug\net6.0-windows\ADBTool.View.MainForm.resources
